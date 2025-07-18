@@ -1,0 +1,12 @@
+{
+  "name": "swn-hub",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$path": "./src/Workspace"
+    }
+  },
+  "syncbackRules": {
+    "syncCurrentCamera": false
+  }
+}
