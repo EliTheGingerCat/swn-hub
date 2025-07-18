@@ -3,6 +3,20 @@
   "tree": {
     "$className": "DataModel",
     "Workspace": {
+      "$properties": {
+        "AuthorityMode": {
+          "Enum": 1
+        },
+        "LuauTypeCheckMode": {
+          "Enum": 0
+        },
+        "UseImprovedModelLod": {
+          "Enum": 0
+        },
+        "UseNewLuauTypeSolver": {
+          "Enum": 0
+        }
+      },
       "$path": "./src/Workspace"
     }
   },
